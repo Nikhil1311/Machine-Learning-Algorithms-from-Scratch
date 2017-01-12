@@ -9,7 +9,7 @@
 import sys
 import queue
 
-# each Node in the Graph
+# each Node in the given Graph
 class Node:
     def __init__(self, key, i, j):
         # Utility to easily check for presence in openList/ClosedList
